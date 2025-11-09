@@ -1,1 +1,23 @@
+# Model File: shape_predictor_68_face_landmarks.dat
+
+This folder should contain the pre-trained Dlib model file required by the DriveAware
+(Intelligent Driver Alert System) project for detecting facial and eye landmarks.
+
+---
+
+## 📥 Download the Model File
+
+Download the required model file from the link below:
+
+🔗 https://drive.google.com/file/d/1_As0iQkvQtG-thenuPW3oVI1_e0bb1gJ/view?usp=drive_link
+
+After downloading, place it in this directory with the exact name:
+
+models/shape_predictor_68_face_landmarks.dat
+
+---
+
+## ⚙️ Usage Notes
+
+- Ensure the file path in your main code matches:
 
